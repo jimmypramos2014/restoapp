@@ -1,0 +1,52 @@
+.droparea {
+color: #fff;
+margin: 10px auto !important;
+position:relative;
+text-align: center;
+}
+
+.droparea div, 
+.droparea input, 
+.multiple div, 
+.multiple input {
+color: #fff;
+height: 100%;
+position: absolute;
+top:0;
+width: 100%;
+}
+.droparea input, 
+.multiple input {
+color: #fff;
+cursor: pointer; 
+opacity: 0; 
+}
+.droparea .instructions, 
+.multiple .instructions {
+border: 2px dashed #ddd;
+color:#fff;
+opacity: .8;
+}
+.droparea .instructions.over, 
+.multiple .instructions.over {
+border: 2px dashed #000;
+background: #ffa;
+}
+.droparea .progress, 
+.multiple .progress {
+background: #6b0;
+bottom: 0;
+color: #fff;
+height: 0;
+position:absolute;
+width: 100%;
+}
+.multiple .progress {
+height: 100%;
+width: 0;
+}
+div.spot {
+margin: 0 20px 0 0;
+min-height: 235px;
+width: 235px;
+}

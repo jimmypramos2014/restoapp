@@ -1,0 +1,11 @@
+<script src="scripts/jquery/jquery-1.9.0.min.js"></script>
+<script src="scripts/jquery.blockUI.js"></script>
+<script src="scripts/jquery/jquery.widget.min.js"></script>
+<script src="scripts/jquery/jquery.mousewheel.js"></script>
+<script src="scripts/prettify/prettify.js"></script>
+<script src="scripts/load-metro.js"></script>
+<script src="scripts/jquery/jquery-ui-1.10.1.custom.js"></script>
+<script src="scripts/jquery.custombox.js"></script>
+<script src="scripts/metro-alert/js/MetroNotification.js"></script>
+<script src="scripts/jquery.numeric.js"></script>
+<script src="scripts/functions.js"></script>

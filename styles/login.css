@@ -1,0 +1,166 @@
+body {
+	background-color: #232228;
+	font-size: 16px;
+	font-weight: 300;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+
+body, 
+strong, 
+h1, 
+h3,
+input,
+button {
+	font-family:  'Segoe UI Light_', 'Open Sans Light', Helvetica, Arial !important;
+}
+
+.clear {
+	clear: both;
+}
+
+h1, h3 {
+	color: #fff;
+	display: block;
+	margin: 0 auto;
+	padding: 0 !important;
+}
+
+h3 {
+	font-weight: 300 !important;
+}
+
+.rowLogin {
+	display: block;
+	margin-top: 20px;
+}
+
+.rowLogin label,
+.row label.error {
+	background-color: #f00;
+	color: #fff;
+	padding: 10px;
+}
+
+.rowLogin input[type="text"],
+.rowLogin input[type="password"],
+.rowLogin button {
+	border: none;
+	display: block;
+	margin: 0 auto;
+}
+
+#pnlUserPass .row {
+	margin: 15px 0;
+}
+
+.rowLogin input[type="text"],
+.rowLogin input[type="password"] {
+}
+
+.rowLogin input[type="text"] {
+	/*background:#19181D url(../images/user.png) left no-repeat;*/
+}
+
+.rowLogin input[type="password"] {
+	/*background:#19181D url(../images/pass.png) left no-repeat;*/
+}
+
+#pnlButtonsLogin .row button {
+	cursor: pointer;
+	display: block;
+	margin: 10px auto !important;
+	padding: 10px !important;
+	width: 100%;
+}
+
+#pnlButtonsLogin .row button h2 {
+	margin: 0;
+}
+
+#btnLogin {
+	background-color: #47c;
+}
+
+#btnLogin:hover {
+	background-color: #369;
+}
+
+#btnLogin:active {
+	background-color: #58c !important;
+}
+
+#btnRegister {
+	background-color: #0BB100;
+}
+
+#btnRegister:hover {
+	background-color: #326D45;
+}
+
+#btnRegister:active {
+	background-color: #2D934E !important;
+}
+
+#pnlRegister {
+	display: none;
+}
+
+#pnlLogin .span6, #pnlRegister .span6 {
+	margin: 0 auto !important;
+	float: inherit !important;
+}
+
+#pnlSave button {
+	display: block;
+	margin: 10px auto !important;
+	padding: 10px !important;
+	text-align: center;
+	width: 100%;
+}
+
+
+.message-dialog button,
+.message-dialog a.button {
+	background-color:transparent;
+	border:2px #fff solid;
+	color:#fff;
+	display: block;
+	font-size: 14px;
+	margin-right: 5px;
+	padding: 5px 12px;
+}
+
+.message-dialog button:first-child,
+.message-dialog a.button:first-child {
+	margin-right: 0;
+}
+
+.message-dialog button:hover,
+.message-dialog a.button:hover {
+	background-color: rgba(0,0,0,0.5);
+	color: #fff;
+}
+
+.message-dialog button:active,
+.message-dialog a.button:active {
+	background-color: #fff !important;
+	color: #000 !important;
+}
+
+::-webkit-input-placeholder {
+   color: white !important;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: white !important;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: white !important;  
+}
+
+:-ms-input-placeholder {  
+   color: white !important;  
+}

@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/servers/xampp/htdocs/restoapp"
+		}
+	],
+	"settings":
+    {
+        "xdebug": {
+            "path_mapping": {
+                "path" : "/D/servers/xampp/htdocs/restoapp/"
+            },
+            "url": "http://localhost:1000/restoapp/index.php",
+            "super_globals": true,
+            "close_on_stop": true
+        }
+    }
+}

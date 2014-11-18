@@ -1,0 +1,114 @@
+.responsive-calendar {
+  font-size: 0;
+  height: 90%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 90%;
+}
+
+.responsive-calendar .controls, 
+.responsive-calendar .day-headers {
+  left:0;
+  position:absolute;
+  text-align: center;
+  width:100%;
+}
+
+.responsive-calendar .controls {
+  height:53px;
+  top:0;
+}
+
+.responsive-calendar .controls a {
+  cursor: pointer;
+}
+.responsive-calendar .controls h2,
+.responsive-calendar .controls h1 {
+  display: inline;
+}
+.responsive-calendar .day-headers,
+.responsive-calendar .days {
+  font-size: 0;
+}
+
+.responsive-calendar .day-headers {
+  background-color: #222;
+  height:48px;
+  top:53px;
+}
+
+.responsive-calendar .days-container {
+  height:100%;
+  overflow: hidden;
+  width: 100%;
+  padding: 101px 0 0 0;
+}
+
+.responsive-calendar .days {
+  background-color: #fff;
+  border-color: #ddd;
+  border-style: solid;
+  border-width: 0 1px 1px 1px;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+
+.responsive-calendar .day {
+  display: inline-block;
+  font-size: 14px;
+  position: relative;
+  text-align: center;
+  width: 14.285714285714286%;
+}
+
+.responsive-calendar .day h3 {
+  margin: 0px !important;
+}
+.responsive-calendar .day a {
+  color: #111;
+  cursor: pointer;
+  display: block;
+  padding: 15% 0 15% 0;
+  font-family: 'Segoe UI Light_', 'Open Sans Light', Verdana, Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.00em;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  letter-spacing: 0.01em;
+  font-size: 2.2rem;
+  line-height: 2.2rem;
+  font-weight: bold;
+}
+.responsive-calendar .day a:hover {
+  background-color: #ccc;
+  text-decoration: none;
+}
+.responsive-calendar .day.header {
+ 
+}
+.responsive-calendar .day.active a {
+  background-color: #1d86c8;
+  color: #fff;
+}
+.responsive-calendar .day.active a:hover {
+  background-color: #36a0e2;
+}
+.responsive-calendar .day.active .not-current {
+  background-color: #8fcaef;
+  color: #fff;
+}
+.responsive-calendar .day.active .not-current:hover {
+  background-color: #bcdff5;
+}
+.responsive-calendar .day.not-current a {
+  color: #aaa;
+}
+.responsive-calendar .day .badge {
+  position: absolute;
+  right: 2px;
+  top: 2px;
+  z-index: 1;
+}

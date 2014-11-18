@@ -1,0 +1,41 @@
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+
+.notification {
+background-color: #ccc;
+margin-bottom: 10px;
+width: 100%;
+}
+
+.notification aside {
+background-color: rgba(0,0,0,0.267);
+color: #fff;
+display: table-cell;
+font-size: 28px;
+text-align: center;
+vertical-align: middle;
+width: 60px;
+}
+
+.notification main {
+color: #333;
+display: table-cell;
+opacity: 0.7;
+padding: 20px 10px;
+}
+
+.notification main p strong {
+	display: block;
+}
+
+.notification.info  {
+background-color: #48a;
+}
+.notification.success {
+background-color: #6a3;
+}
+.notification.warning {
+background-color: #ea3;
+}
+.notification.error {
+background-color: #e64;
+}

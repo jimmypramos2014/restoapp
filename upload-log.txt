@@ -1,0 +1,22 @@
+=== 2014-07-26 09:24:18 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => pantalla.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\servers\xampp\tmp\php7CFD.tmp
+            [error] => 0
+            [size] => 267507
+        )
+
+)
+
+POST:Array
+(
+    [post] => upload.php
+    [width] => 235
+    [height] => 235
+    [crop] => true
+)
+

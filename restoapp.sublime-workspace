@@ -1,0 +1,2427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"icon",
+				"iconwin"
+			],
+			[
+				"contr",
+				"control-center"
+			],
+			[
+				"lnk",
+				"lnkLogout"
+			],
+			[
+				"ad",
+				"addClass	.addClass()"
+			],
+			[
+				"option",
+				"options-user"
+			],
+			[
+				"bors",
+				"border-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"LIS",
+				"list-activewin"
+			],
+			[
+				"list",
+				"list-activewin"
+			],
+			[
+				"di",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"data",
+				"data-idproducto"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"RG",
+				"rgb(  (value)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"b",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"content",
+				"contentPedido"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"fid",
+				"find	.find()"
+			],
+			[
+				"sec",
+				"seccion"
+			],
+			[
+				"drop",
+				"drop"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"dro",
+				"droppable"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"slid",
+				"slider-content"
+			],
+			[
+				"PA",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"top",
+				"top:   (property)"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"slider",
+				"sliderCuentas"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"html",
+				"html_item_section"
+			],
+			[
+				"idc",
+				"IdCuenta"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"moda",
+				"modal-example-footer"
+			],
+			[
+				"tab",
+				"tabs-panel"
+			],
+			[
+				"pnlF",
+				"pnlFormaPago"
+			],
+			[
+				"ha",
+				"hasClass"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"on",
+				"on"
+			],
+			[
+				"he",
+				"heightMenu"
+			],
+			[
+				"hei",
+				"heightItem"
+			],
+			[
+				"dropdow",
+				"dropdown-menu"
+			],
+			[
+				"le",
+				"lengthItemsMenu"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"pnlf",
+				"pnlFormaPago"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"t",
+				"table-caption"
+			],
+			[
+				"mod",
+				"modal-example-header"
+			],
+			[
+				"modal",
+				"modal-example-footer"
+			],
+			[
+				"data-id",
+				"data-idcontainer"
+			],
+			[
+				"Mostr",
+				"MostrarMesas"
+			],
+			[
+				"pnl",
+				"pnlCategoria"
+			],
+			[
+				"tog",
+				"toggleSlideButton"
+			],
+			[
+				"SLIDER",
+				"sliderAmbientes"
+			],
+			[
+				"btnHi",
+				"btnHidePnlCuentas"
+			],
+			[
+				"slide",
+				"slide-options"
+			],
+			[
+				"cuent",
+				"cuenta-footer"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"panel",
+				"panelCuentas"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"pnlC",
+				"pnlCuentas"
+			],
+			[
+				"btnhi",
+				"btnHidePnlCuentas"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"cont",
+				"contentPedido"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"sub",
+				"subpag"
+			],
+			[
+				"li",
+				"links-config"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"col",
+				"colTwoPanel1"
+			],
+			[
+				"su",
+				"subpag"
+			],
+			[
+				"btn",
+				"btnConfigSistema"
+			],
+			[
+				"p_s",
+				"p_settings"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"hdi",
+				"hdTipoCliente"
+			],
+			[
+				"data-",
+				"data-tipocliente"
+			],
+			[
+				"VAL",
+				"val"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"to",
+				"toggle-icon"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"men",
+				"menu-hoy"
+			],
+			[
+				"btnAsig",
+				"btnAsignarMenu"
+			],
+			[
+				"btnSe",
+				"btnSelectAll"
+			],
+			[
+				"tipo",
+				"TipoCarta"
+			],
+			[
+				"inpu",
+				"input_spinner"
+			],
+			[
+				"btnas",
+				"btnAsignarCarta"
+			],
+			[
+				"Ti",
+				"TipoCarta"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"btns",
+				"btnSelectAll"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"SELE",
+				"selector"
+			],
+			[
+				"T",
+				"TipoCarta"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ON",
+				"only-numbers"
+			],
+			[
+				"key",
+				"keypress"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"r",
+				"responsive-calendar"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"btnC",
+				"btnCancelReceta"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"btne",
+				"btnEditarIngrediente"
+			],
+			[
+				"clea",
+				"clearFormIngrediente"
+			],
+			[
+				"clear",
+				"clearRecetaForm"
+			],
+			[
+				"btnE",
+				"btnEditarIngrediente"
+			],
+			[
+				"foc",
+				"focus"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/process/sales-list.php",
+			"settings":
+			{
+				"buffer_size": 89852,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/admin/warehouse-list.php",
+			"settings":
+			{
+				"buffer_size": 4298,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/styles.css",
+			"settings":
+			{
+				"buffer_size": 34014,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/common/home.php",
+			"settings":
+			{
+				"buffer_size": 13843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/servers/xampp/htdocs/inuqorg/intranet/views/process/mails-form.php",
+			"settings":
+			{
+				"buffer_size": 34208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/admin/products-list.php",
+			"settings":
+			{
+				"buffer_size": 50466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common/contents.php",
+			"settings":
+			{
+				"buffer_size": 13466,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 198.0,
+		"selected_items":
+		[
+			[
+				"tag",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: FILES['…']"
+			],
+			[
+				"Package Control: R",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"iNST",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/servers/xampp/htdocs/inuqorg/intranet/views/process/mails-list.php",
+		"/C/Users/Inspiron/Documents/Sample.html",
+		"/D/servers/xampp/htdocs/restoapp/styles/metro-bootstrap.css",
+		"/D/servers/xampp/htdocs/restoapp/index.php",
+		"/D/servers/xampp/htdocs/restoapp/scripts/functions.js",
+		"/D/servers/xampp/htdocs/restoapp/common/contents.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/atencion.php",
+		"/D/servers/xampp/htdocs/restoapp/adata/Db.class.php",
+		"/D/servers/xampp/htdocs/restoapp/views/common/home.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/precios.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/productos.php",
+		"/D/servers/xampp/htdocs/restoapp/services/productos/productos-search.php",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/HTML5/Preferences/Miscellaneous.tmPreferences",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/HTML5/Preferences/Completions HTML Tags.tmPreferences",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/HTML5/Preferences/Tag Preferences.tmPreferences",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/HTML5/Elements/html.sublime-snippet",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Inspiron/Downloads/jcalculator/style.css",
+		"/C/Users/Inspiron/Downloads/jcalculator/css/jcalculator.css",
+		"/C/Users/Inspiron/Downloads/jcalculator/js/jcalculator.js",
+		"/C/Users/Inspiron/Downloads/jcalculator/index.html",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Dark.sublime-theme",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/servers/xampp/htdocs/restoapp/failed-login.php",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widget.sublime-settings",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widgets.stTheme",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Spacegray/Spacegray.sublime-theme",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Spacegray/Spacegray/Widget - Spacegray.stTheme",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/customers-list.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/clientes.php",
+		"/D/servers/xampp/htdocs/restoapp/services/clientes/clientes-search.php",
+		"/D/servers/xampp/htdocs/restoapp/services/clientes/cliente-getdetails.php",
+		"/C/Users/Inspiron/Downloads/restoapp (5).sql",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/SublimeTextTrans/SublimeTextTrans.sublime-settings",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Installed Packages/Package Control.sublime-package",
+		"/C/Program Files (x86)/Sublime Text 2/sublime_plugin.py",
+		"/C/Program Files (x86)/Sublime Text 2/PackageSetup.py",
+		"/D/frmActoPlantilla_decoded.vb",
+		"/C/Users/Inspiron/Documents/web.config",
+		"/D/servers/xampp/htdocs/restoapp/views/process/sales-list.php",
+		"/D/servers/xampp/htdocs/restoapp/styles/styles.css",
+		"/C/Users/Inspiron/Documents/Rainmeter/Skins/Path/Notes/Notes.ini",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/categories-list.php",
+		"/D/servers/xampp/htdocs/restoapp/views/settings/currency.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/cartadia.php",
+		"/D/servers/xampp/htdocs/restoapp/services/cartadia/cartadia-search.php",
+		"/D/servers/xampp/htdocs/restoapp/views/common/settings.php",
+		"/D/servers/xampp/htdocs/restoapp/common/libraries-js.php",
+		"/D/servers/xampp/htdocs/restoapp/styles/custombox-modal.css",
+		"/C/Users/Inspiron/Documents/Rainmeter/Skins/Path/Slide/Slide.ini",
+		"/D/servers/xampp/htdocs/Metro-UI-CSS-master/js/metro-carousel.js",
+		"/D/servers/xampp/htdocs/restoapp/views/process/menutoday-list.php",
+		"/D/servers/xampp/htdocs/restoapp5/views/process/menutoday-list.php",
+		"/D/servers/xampp/htdocs/restoapp5/views/process/sales-list.php",
+		"/D/servers/xampp/htdocs/restoapp2/views/process/sales-list.php",
+		"/D/proyectos/codigo/net/SlnNotaria/webNotaria/frmActoPlantilla.aspx",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/settings.php",
+		"/C/Users/Inspiron/Desktop/reset_tables_restora.sql",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/products-list.php",
+		"/D/servers/xampp/htdocs/restoapp/views/process/monitor-display.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/mesas.php",
+		"/D/servers/xampp/htdocs/restoapp/styles/responsive-calendar.css",
+		"/C/Users/Inspiron/Pictures/cambioaspaCTOPLANTILLA",
+		"/D/servers/xampp/htdocs/restoapp/styles/responsivemobilemenu.css",
+		"/C/Users/Inspiron/Downloads/responsivemobilemenu/responsivemobilemenu/rmm-css/responsivemobilemenu.css",
+		"/D/servers/xampp/htdocs/restoapp/restoapp.sublime-project",
+		"/D/servers/xampp/php/php.ini",
+		"/C/Users/Inspiron/Documents/GitHub/Fixed-Header-Table/jquery.fixedheadertable.min.js",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/User/Xdebug.sublime-settings",
+		"/C/Users/Inspiron/AppData/Roaming/Sublime Text 2/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/tipocomprobante.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/formapago.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/unidadmedida.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/receta.php",
+		"/D/servers/xampp/htdocs/restoapp/styles/metro-bootstrap-responsive.css",
+		"/D/servers/xampp/htdocs/restoapp/scripts/responsive-calendar.js",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/mesas2.php",
+		"/D/servers/xampp/htdocs/restoapp/views/process/sales-list2.php",
+		"/C/Users/Inspiron/Desktop/sql_clientes_restora.sql",
+		"/D/servers/xampp/htdocs/restoapp/services/recetas/recetas-search.php",
+		"/D/servers/xampp/htdocs/restoapp/views/process/cook-list.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/cargos.php",
+		"/D/servers/xampp/htdocs/restoapp/services/ambientes/mesas-search.php",
+		"/D/servers/xampp/htdocs/restoapp/services/proveedores/proveedores-search.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/insumos.php",
+		"/D/servers/xampp/htdocs/restoapp/services/productos/productos-getdetails.php",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/inputs-list.php",
+		"/D/servers/xampp/htdocs/restoapp/services/insumos/insumos-search.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/ventas.php",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/rooms-list.php",
+		"/C/Users/Inspiron/Downloads/inuqorg_restora (6).sql",
+		"/D/servers/xampp/htdocs/restoapp/services/ventas/detallepedido-search.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/tabla.php",
+		"/C/Users/Inspiron/Desktop/mmm.html",
+		"/C/Users/Inspiron/Downloads/inuqorg_restora (5).sql",
+		"/D/servers/xampp/htdocs/restoapp/scripts/jquery.custombox.js",
+		"/D/servers/xampp/htdocs/restoapp/acceso.php",
+		"/D/servers/xampp/htdocs/restoapp/services/ambientes/amesas-getdetails.php",
+		"/D/servers/xampp/htdocs/restoapp/views/admin/hierarchy-list.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/ambientes.php",
+		"/D/servers/xampp/htdocs/restoapp/bussiness/categoria.php",
+		"/D/servers/xampp/htdocs/restoapp/scripts/metro-alert/js/MetroNotification.js",
+		"/D/servers/xampp/htdocs/restoapp/scripts/messagebar/js/jquery.messagebar.js",
+		"/D/servers/xampp/htdocs/inuqorg/intranet/views/common/activities.php",
+		"/D/servers/xampp/htdocs/inuqorg/intranet/views/common/blog.php",
+		"/D/servers/xampp/htdocs/restoapp/styles/jquery-anyslider.css",
+		"/C/Users/Inspiron/Desktop/indices.sql",
+		"/D/servers/xampp/htdocs/inuqorg/intranet/styles/styles.css",
+		"/D/servers/xampp/htdocs/restoapp/scripts/jquery.tubular.1.0.js",
+		"/D/servers/xampp/htdocs/restoapp/adata/Db.class.backup.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/bolivia.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/ceremonia.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/beneficios.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/registrate.php",
+		"/D/servers/xampp/htdocs/inuqorg/index.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/quienes_somos.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/premio.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/contactenos.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/testimonios.php",
+		"/C/Users/Inspiron/AppData/Local/Temp/fz3temp-1/difusion_de_prensa.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"title-w",
+			"app-header",
+			"header",
+			"Segoe",
+			"pnlProduc",
+			"btnViewOrde",
+			"modern-wrapp",
+			"applyMainDimensions()",
+			"applyMainDimensions",
+			"z-index: 9",
+			"header",
+			"content",
+			"list-site",
+			"main",
+			"desktop",
+			"h5",
+			"images",
+			"img",
+			"#style-1",
+			"desl",
+			";\n",
+			"line-hei",
+			"tile",
+			"titlewin",
+			"footer",
+			"desktop",
+			"cc-tab",
+			"user",
+			"h3",
+			"span",
+			"section-user",
+			"body-control",
+			"body",
+			"real_pixels",
+			"list-ac",
+			"view",
+			"list-a",
+			"font",
+			"container-activewin",
+			"h1",
+			"span",
+			"tab",
+			"view",
+			"desktop",
+			"lHdIdProducto",
+			"9",
+			"6",
+			"list-act",
+			"list-sites",
+			"toggle-icon",
+			"pnlMesas +",
+			" ",
+			"btnGuardarCambios",
+			"pnlProductos",
+			"btnGuardarCambios",
+			"seccion",
+			"section",
+			"initCuentaDroppble",
+			"initCu",
+			"toggleSlidePa",
+			"modCocinaWidth",
+			"MostrarMesas",
+			"section",
+			"<h3>",
+			"h3",
+			"section",
+			"initSlider",
+			"32",
+			"31",
+			"sidebar",
+			"draggable",
+			"dragga",
+			"blue",
+			"dark",
+			"blue",
+			"sideb",
+			"circl",
+			"link",
+			"circle-button",
+			"tabs-panel",
+			"tab",
+			"public",
+			"mysqli_close($this->link);",
+			"\n		$this->conectar();\n",
+			"side bar",
+			"side",
+			"trans",
+			"Trans",
+			"trans",
+			"opacity",
+			"pnlCuenta",
+			"pnlImporte",
+			"h1",
+			"pnlImporte",
+			"lblMonedaVenta",
+			"rowImporte",
+			"lblMonedaVenta",
+			"<section name=\"scriptResourceHandler\" type=\"System.Web.Configuration.ScriptingScriptResourceHandlerSection, System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31B",
+			"dropdown-circle-button",
+			"displayDropDownMenu",
+			"this",
+			":0px",
+			"0px",
+			" 0px",
+			"0px",
+			" 0px",
+			"0px",
+			"footer",
+			"border-radius",
+			"Excluir",
+			"Incluir",
+			" margin10",
+			"#pnlCuentas ",
+			"200px",
+			"#pnlCuentas ",
+			"initS",
+			"sliderCuentas",
+			"resizeSlider",
+			"pnlCuentas",
+			"sliderCuentas",
+			"type",
+			"initSlider",
+			"MostrarMesas",
+			"data-idambiente",
+			"IdAmbiente",
+			"resizeAmbientes",
+			"slideHeight",
+			"resize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"last",
+			"tm_idpersonal",
+			"ddlCargo",
+			"'",
+			");",
+			"INSERT",
+			");",
+			"INSERT",
+			");",
+			"INSERT",
+			", '",
+			"(1, 17, 5, '",
+			",'",
+			"','",
+			"btnLimpiarSeleccion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/process/sales-list.php",
+					"settings":
+					{
+						"buffer_size": 89852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88363,
+								88363
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 55848.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/admin/warehouse-list.php",
+					"settings":
+					{
+						"buffer_size": 4298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles/styles.css",
+					"settings":
+					{
+						"buffer_size": 34014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1901,
+								1901
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2366.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/common/home.php",
+					"settings":
+					{
+						"buffer_size": 13843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 328.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/servers/xampp/htdocs/inuqorg/intranet/views/process/mails-form.php",
+					"settings":
+					{
+						"buffer_size": 34208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1842,
+								1842
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1046.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 5150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2169,
+								2169
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/admin/products-list.php",
+					"settings":
+					{
+						"buffer_size": 50466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9657,
+								9678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3494.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "common/contents.php",
+					"settings":
+					{
+						"buffer_size": 13466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6651,
+								6651
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4469.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 81.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"conte",
+				"common/contents.php"
+			],
+			[
+				"products-",
+				"views/admin/products-list.php"
+			],
+			[
+				"metro",
+				"styles/metro-bootstrap.css"
+			],
+			[
+				"sty",
+				"styles/styles.css"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"home",
+				"views/common/home.php"
+			],
+			[
+				"aten",
+				"bussiness/atencion.php"
+			],
+			[
+				"dbcla",
+				"adata/Db.class.php"
+			],
+			[
+				"sale",
+				"views/process/sales-list.php"
+			],
+			[
+				"styles",
+				"styles/styles.css"
+			],
+			[
+				"dbc",
+				"adata/Db.class.php"
+			],
+			[
+				"prec",
+				"bussiness/precios.php"
+			],
+			[
+				"pro",
+				"services/productos/productos-search.php"
+			],
+			[
+				"product",
+				"bussiness/productos.php"
+			],
+			[
+				"productos",
+				"services/productos/productos-search.php"
+			],
+			[
+				"styl",
+				"styles/styles.css"
+			],
+			[
+				"fu",
+				"scripts/functions.js"
+			],
+			[
+				"con",
+				"common/contents.php"
+			],
+			[
+				"sales",
+				"views/process/sales-list.php"
+			],
+			[
+				"clien",
+				"services/clientes/cliente-getdetails.php"
+			],
+			[
+				"",
+				"views/process/sales-list.php"
+			],
+			[
+				"clie",
+				"services/clientes/clientes-search.php"
+			],
+			[
+				"cliente",
+				"bussiness/clientes.php"
+			],
+			[
+				"custo",
+				"views/admin/customers-list.php"
+			],
+			[
+				"dcl",
+				"adata/Db.class.php"
+			],
+			[
+				"sals",
+				"views/process/sales-list.php"
+			],
+			[
+				"cus",
+				"styles/custombox-modal.css"
+			],
+			[
+				"sal",
+				"views/process/sales-list.php"
+			],
+			[
+				"cont",
+				"common/contents.php"
+			],
+			[
+				"sa",
+				"views/process/sales-list.php"
+			],
+			[
+				"db",
+				"adata/Db.class.php"
+			],
+			[
+				"dbcl",
+				"adata/Db.class.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"menut",
+				"views/process/menutoday-list.php"
+			],
+			[
+				"libr",
+				"common/libraries-js.php"
+			],
+			[
+				"custom",
+				"styles/custombox-modal.css"
+			],
+			[
+				"curr",
+				"views/settings/currency.php"
+			],
+			[
+				"ho",
+				"views/common/home.php"
+			],
+			[
+				"sett",
+				"views/common/settings.php"
+			],
+			[
+				"carta",
+				"services/cartadia/cartadia-search.php"
+			],
+			[
+				"cartadia",
+				"bussiness/cartadia.php"
+			],
+			[
+				"catego",
+				"views/admin/categories-list.php"
+			],
+			[
+				"cu",
+				"views/admin/customers-list.php"
+			],
+			[
+				"hom",
+				"views/common/home.php"
+			],
+			[
+				"cart",
+				"bussiness/cartadia.php"
+			],
+			[
+				"menu",
+				"views/process/menutoday-list.php"
+			],
+			[
+				"cale",
+				"styles/responsive-calendar.css"
+			],
+			[
+				"mesas",
+				"bussiness/mesas.php"
+			],
+			[
+				"respo",
+				"styles/responsivemobilemenu.css"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"cartadi",
+				"bussiness/cartadia.php"
+			],
+			[
+				"monit",
+				"views/process/monitor-display.php"
+			],
+			[
+				"l",
+				"common/libraries-js.php"
+			],
+			[
+				"res",
+				"styles/metro-bootstrap-responsive.css"
+			],
+			[
+				"menuto",
+				"views/process/menutoday-list.php"
+			],
+			[
+				"rece",
+				"bussiness/receta.php"
+			],
+			[
+				"unid",
+				"bussiness/unidadmedida.php"
+			],
+			[
+				"ate",
+				"bussiness/atencion.php"
+			],
+			[
+				"mesas-s",
+				"services/ambientes/mesas-search.php"
+			],
+			[
+				"rec",
+				"bussiness/receta.php"
+			],
+			[
+				"car",
+				"bussiness/cargos.php"
+			],
+			[
+				"preci",
+				"bussiness/precios.php"
+			],
+			[
+				"coo",
+				"views/process/cook-list.php"
+			],
+			[
+				"orodu",
+				"services/productos/productos-search.php"
+			],
+			[
+				"prod",
+				"services/proveedores/proveedores-search.php"
+			],
+			[
+				"style",
+				"styles/styles.css"
+			],
+			[
+				"ins",
+				"bussiness/insumos.php"
+			],
+			[
+				"f",
+				"scripts/functions.js"
+			],
+			[
+				"insum",
+				"bussiness/insumos.php"
+			],
+			[
+				"insu",
+				"services/insumos/insumos-search.php"
+			],
+			[
+				"resp",
+				"styles/metro-bootstrap-responsive.css"
+			],
+			[
+				"produ",
+				"bussiness/productos.php"
+			],
+			[
+				"vent",
+				"bussiness/ventas.php"
+			],
+			[
+				"setyl",
+				"styles/styles.css"
+			],
+			[
+				"at",
+				"bussiness/atencion.php"
+			],
+			[
+				"deta",
+				"services/ventas/detallepedido-search.php"
+			],
+			[
+				"moni",
+				"views/process/monitor-display.php"
+			],
+			[
+				"mon",
+				"views/process/monitor-display.php"
+			],
+			[
+				"tabl",
+				"bussiness/tabla.php"
+			],
+			[
+				"roo",
+				"views/admin/rooms-list.php"
+			],
+			[
+				"acceso",
+				"acceso.php"
+			],
+			[
+				"mod",
+				"styles/custombox-modal.css"
+			],
+			[
+				"cconte",
+				"common/contents.php"
+			],
+			[
+				"mesa",
+				"bussiness/mesas.php"
+			],
+			[
+				"mes",
+				"bussiness/mesas.php"
+			],
+			[
+				"metrono",
+				"scripts/metro-alert/js/MetroNotification.js"
+			],
+			[
+				"li",
+				"common/libraries-js.php"
+			],
+			[
+				"messages",
+				"scripts/messagebar/js/jquery.messagebar.js"
+			],
+			[
+				"ro",
+				"views/admin/rooms-list.php"
+			],
+			[
+				"metr",
+				"styles/metro-bootstrap.css"
+			],
+			[
+				"cat",
+				"bussiness/categoria.php"
+			],
+			[
+				"ames",
+				"services/ambientes/mesas-search.php"
+			],
+			[
+				"ambi",
+				"bussiness/ambientes.php"
+			],
+			[
+				"jqu",
+				"styles/jquery-anyslider.css"
+			],
+			[
+				"slider",
+				"styles/jquery-anyslider.css"
+			],
+			[
+				"tu",
+				"scripts/jquery.tubular.1.0.js"
+			],
+			[
+				"tubu",
+				"scripts/jquery.tubular.1.0.js"
+			],
+			[
+				"upl",
+				"upload-import.php"
+			],
+			[
+				"cartad",
+				"bussiness/cartadia.php"
+			],
+			[
+				"up",
+				"upload-data.php"
+			],
+			[
+				"au",
+				"common/PHPExcel/Autoloader.php"
+			],
+			[
+				"or",
+				"services/organigrama/organigrama-search.php"
+			],
+			[
+				"cli",
+				"bussiness/clientes.php"
+			],
+			[
+				"uplo",
+				"upload-import.php"
+			],
+			[
+				"per",
+				"scripts/prettify/lang-erlang.js"
+			],
+			[
+				"hi",
+				"views/admin/hierarchy-list.php"
+			],
+			[
+				"cate",
+				"bussiness/categoria.php"
+			],
+			[
+				"precio",
+				"bussiness/precios.php"
+			],
+			[
+				"ve",
+				"bussiness/ventas.php"
+			],
+			[
+				"men",
+				"views/process/menutoday-list.php"
+			],
+			[
+				"pre",
+				"bussiness/precios.php"
+			],
+			[
+				"hier",
+				"views/admin/hierarchy-list.php"
+			],
+			[
+				"pto",
+				"bussiness/productos.php"
+			],
+			[
+				"room",
+				"views/admin/rooms-list.php"
+			],
+			[
+				"ca",
+				"services/categorias/categorias-getdetails.php"
+			],
+			[
+				"categor",
+				"bussiness/categoria.php"
+			],
+			[
+				"categ",
+				"views/admin/categories-list.php"
+			],
+			[
+				"ambie",
+				"bussiness/ambientes.php"
+			],
+			[
+				"am",
+				"bussiness/ambientes.php"
+			],
+			[
+				"respon",
+				"styles/metro-bootstrap-responsive.css"
+			],
+			[
+				"metro-bo",
+				"styles/metro-bootstrap.css"
+			],
+			[
+				"h",
+				"views/admin/hierarchy-list.php"
+			],
+			[
+				"det",
+				"services/ventas/detallepedido-search.php"
+			],
+			[
+				"amb",
+				"bussiness/ambientes.php"
+			],
+			[
+				"c",
+				"services/categorias/categorias-search.php"
+			],
+			[
+				"s",
+				"views/process/sales-list.php"
+			],
+			[
+				"ord",
+				"views/process/orders-list.php"
+			],
+			[
+				"org",
+				"services/organigrama/organigrama-search.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}

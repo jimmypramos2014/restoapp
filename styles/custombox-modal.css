@@ -1,0 +1,57 @@
+.modal-example-content {
+background-color: #FFF;
+border: 1px solid rgba(0, 0, 0, 0.2);
+/*border-radius: 6px;*/
+box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+outline: 0 none;
+width: 480px;
+}
+.modal-example-header {
+border-bottom: 1px solid #E5E5E5;
+padding: 15px;
+position: relative;
+}
+.modal-example-body p,
+.modal-example-header h4 {
+margin: 0;
+}
+.modal-example-body {
+padding: 15px;
+min-height: 250px;
+height: 320px; 
+overflow: auto;
+width: inherit;
+}
+
+.modal-example-body label,
+.modal-example-body select,
+.modal-example-body input[type="text"],
+.modal-example-body input[type="checkbox"],
+.modal-example-body input[type="date"],
+.modal-example-body input[type="email"],
+.modal-example-body input[type="week"],
+.modal-example-body input[type="url"],
+.modal-example-body input[type="password"],
+.modal-example-body input[type="file"] {
+	font-size: 11pt;
+}
+
+.close {
+color: #000;
+cursor: pointer;
+display: block;
+font-size: 21px;
+font-weight: 700;
+line-height: 1;
+margin: 0;
+opacity: .5;
+padding: 0;
+position: absolute;
+right: 10px;
+text-shadow: 0 1px 0 #fff;
+top: 10px;
+}
+
+.close:hover {
+ opacity: 1;
+}

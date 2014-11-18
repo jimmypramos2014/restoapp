@@ -1,0 +1,481 @@
+.divMessageBox {
+background:rgba(0,0,0,0.6);
+height:100%;
+left:0;
+position:fixed;
+top:0;
+width:100%;
+z-index:100000;
+}
+
+.MessageIE {
+background-image:url(../img/bg.png);
+}
+
+.MessageBoxContainer {
+background-color:#232323;
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+position:relative;
+top:35%;
+width:100%;
+}
+
+.MessageBoxButtonSection {
+height:30px;
+width:100%;
+}
+
+.MessageBoxButtonSection button,
+.MessageBoxButtonSection button:active {
+border-color:#FFF !important;
+border-style:solid !important;
+border-width:2px !important;
+color:#FFF !important;
+float:right !important;
+font-family:arial !important;
+margin-right:5px !important;
+padding:5px 15px !important;
+}
+
+.LoadingBoxContainer {
+background-color:#232323;
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+position:relative;
+top:20%;
+width:100%;
+}
+
+#LoadingPoints {
+position:absolute;
+}
+
+.bigBox {
+background-color:#004d60;
+bottom:10px;
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+height:150px;
+padding:10px 10px 5px;
+position:fixed;
+right:10px;
+width:390px;
+z-index:99999;
+}
+
+.bigBox p {
+font-size:14px;
+margin-top:2px;
+}
+
+#divMiniIcons {
+bottom:180px;
+float:right;
+position:fixed;
+right:10px;
+width:430px;
+z-index:9999;
+}
+
+.botClose {
+cursor:pointer;
+height:15px;
+position:absolute;
+right:10px;
+width:15px;
+}
+
+#divMiniIcons .cajita {
+background-color:#f00;
+cursor:pointer;
+display:block;
+float:right;
+height:30.5px;
+margin:2px 2px 0;
+width:30.5px;
+}
+
+.cajita img {
+height:23px;
+padding-left:3px;
+padding-top:3px;
+width:23px;
+}
+
+.bigBox .bigboxicon {
+float:left;
+margin:0;
+width:100px;
+}
+
+.bigBox .bigboxnumber {
+float:left;
+font-size:25px;
+margin:2px 0 0;
+text-align:right;
+width:220px;
+}
+
+#divSmallBoxes {
+position:fixed;
+right:0;
+top:0;
+}
+
+.SmallBox {
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+padding-right:30px;
+position:absolute;
+right:0;
+top:20px;
+width:420px;
+z-index:9999;
+}
+
+.SmallBox:hover {
+box-shadow:0 0 10px #888;
+cursor:pointer;
+}
+
+.SmallBox .foto {
+float:left;
+height:100px;
+margin:-10px -10px 2em;
+width:100px;
+}
+
+.SmallBox .textoFull {
+float:left;
+padding-left:20px;
+width:93%;
+}
+
+.SmallBox .textoFoto {
+float:left;
+margin:0 20px;
+width:65%;
+}
+
+.miniPic {
+bottom:5px;
+position:absolute;
+}
+
+.miniIcono {
+height:100%;
+}
+
+.SmallBox p {
+font-size:12px;
+margin-top:2px;
+}
+
+#pageslide {
+-moz-shadow:inset 0 0 0 0 #222;
+-webkit-box-shadow:inset 0 0 5px 5px #222;
+background-color:#004d60;
+box-shadow:inset 0 0 0 0 #222;
+color:#FFF;
+display:none;
+height:100%;
+padding:20px;
+position:fixed;
+top:0;
+width:305px;
+z-index:999999;
+}
+
+.purehtml {
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+font-size:16px;
+}
+
+@font-face {
+font-family:Quattro;
+src:url(Quattrocento-Regular.otf);
+}
+
+.animated {
+-moz-animation-duration:1s;
+-moz-animation-fill-mode:both;
+-o-animation-duration:1s;
+-o-animation-fill-mode:both;
+-webkit-animation-duration:1s;
+-webkit-animation-fill-mode:both;
+animation-duration:1s;
+animation-fill-mode:both;
+}
+
+.animated.fast {
+-o-animation-duration:.4s;
+-moz-animation-duration:.4s;
+-ms-animation-duration:.4s;
+-webkit-animation-duration:.4s;
+animation-duration:.4s;
+}
+
+100% {
+-moz-transform:translateX(-20px);
+-o-transform:translateX(-20px);
+-webkit-transform:translateX(-20px);
+opacity:0;
+transform:translateX(-20px);
+}
+
+.fadeIn {
+-moz-animation-name:fadeIn;
+-o-animation-name:fadeIn;
+-webkit-animation-name:fadeIn;
+animation-name:fadeIn;
+}
+
+.fadeInRight {
+-moz-animation-name:fadeInRight;
+-o-animation-name:fadeInRight;
+-webkit-animation-name:fadeInRight;
+animation-name:fadeInRight;
+}
+
+.fadeInUp {
+-moz-animation-name:fadeInUp;
+-o-animation-name:fadeInUp;
+-webkit-animation-name:fadeInUp;
+animation-name:fadeInUp;
+}
+
+.fadeOut {
+-moz-animation-name:fadeOut;
+-o-animation-name:fadeOut;
+-webkit-animation-name:fadeOut;
+animation-name:fadeOut;
+}
+
+.fadeOutLeft {
+-moz-animation-name:fadeOutLeft;
+-o-animation-name:fadeOutLeft;
+-webkit-animation-name:fadeOutLeft;
+animation-name:fadeOutLeft;
+}
+
+.MessageBoxMiddle,.LoadingBoxMiddle {
+font-family: 'Segoe UI Light', Arial;
+left:20%;
+padding:10px;
+position:relative;
+width:50%;
+}
+
+.MessageBoxMiddle .MsgTitle,.LoadingBoxContainer .MsgTitle {
+font-size:26px;
+}
+
+.MessageBoxMiddle .pText,.LoadingBoxContainer .pText {
+font-style:30px;
+}
+
+.MessageBoxContainer input,.MessageBoxContainer select {
+padding:5px;
+width:50%;
+}
+
+.bigBox span,.SmallBox span {
+font-size:22px;
+}
+
+@media screen and max-width 450px and max-width 767px{
+#divSmallBoxes {
+position:fixed;
+right:0;
+top:0;
+width:90%;
+}
+
+.SmallBox {
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+padding-right:30px;
+position:absolute;
+right:0;
+top:20px;
+width:100%;
+z-index:9999;
+}
+
+.SmallBox:hover {
+box-shadow:0 0 10px #888;
+cursor:pointer;
+}
+
+.SmallBox span {
+font-size:16px;
+}
+
+.SmallBox .foto {
+float:left;
+height:100px;
+margin:-10px -10px 2em;
+width:100px;
+}
+
+.SmallBox .textoFull {
+float:left;
+padding-left:20px;
+width:93%;
+}
+
+.SmallBox .textoFoto {
+float:left;
+margin:0 15px;
+width:55%;
+}
+
+.bigBox {
+background-color:#004d60;
+bottom:10px;
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+height:150px;
+padding:10px 10px 5px;
+position:fixed;
+right:10px;
+width:88%;
+z-index:99999;
+}
+
+.bigBox span {
+font-size:19px;
+}
+
+#divMiniIcons {
+bottom:180px;
+float:right;
+position:fixed;
+right:10px;
+z-index:9999;
+}
+
+.botClose {
+height:20px;
+position:absolute;
+right:10px;
+width:20px;
+}
+
+.bigBox .bigboxicon {
+float:left;
+margin:0;
+width:100px;
+}
+
+.bigBox .bigboxnumber {
+float:left;
+font-size:25px;
+margin:2px 0 0;
+position:fixed;
+text-align:right;
+width:220px;
+}
+
+.divMessageBox {
+background:rgba(0,0,0,0.6);
+height:100%;
+left:0;
+position:fixed;
+top:0;
+width:100%;
+z-index:100000;
+}
+
+.MessageBoxContainer {
+background-color:#232323;
+color:#FFF;
+font-family: 'Segoe UI Light', Arial;
+position:relative;
+top:25%;
+width:100%;
+}
+
+.MessageBoxMiddle {
+font-family: 'Segoe UI Light', Arial;
+left:10%;
+padding:3px;
+position:relative;
+width:80%;
+}
+
+.MessageBoxMiddle .MsgTitle {
+font-size:22px;
+}
+
+.MessageBoxMiddle .pText {
+font-style:10px;
+}
+
+.MessageBoxButtonSection {
+height:30px;
+width:100%;
+}
+
+.MessageBoxButtonSection button, 
+.MessageBoxButtonSection button:active {
+border-color:#FFF !important;
+border-style:solid !important;
+border-width:2px !important;
+color:#FFF !important;
+float:right !important;
+font-family:arial !important;
+margin-right:5px !important;
+padding:5px 15px !important;
+}
+
+.SmallBox p,.bigBox p {
+font-size:12px;
+margin-top:2px;
+}
+
+.MessageBoxContainer input,.MessageBoxContainer select {
+padding:5px;
+width:50%;
+}
+
+.pText {
+color:#fff !important;
+}
+
+@media screen and (max-width: 450px) and (max-width: 767px) {
+.BoxContainer{
+position:absolute;
+width: 88%;
+font-family: 'Segoe UI Light', Arial;
+}
+
+.contentBox{
+width: 90%;
+height: 600px;
+left: 0px;
+
+margin: 0 8px 0em;
+float: left;
+}
+
+.title{
+font-size: 32px;
+margin-bottom: 0px;
+display: block;
+}
+
+.subtitle{
+position: relative;
+top: -10px;
+font-size: 23px;
+}
+
+#MetroUnloadingButton{
+position: fixed;
+bottom: 100px;
+left: 20px;
+}
+}
