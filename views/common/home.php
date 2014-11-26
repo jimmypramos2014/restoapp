@@ -30,7 +30,7 @@ $counterMenu = 0;
 </header> -->
 
 <div class="app-main">
-    <h1 class="app-header">Inicio</h1>
+    <h1 class="app-header">Inicioxxxx</h1>
     <div class="app-body">
         <a href="#" class="control-app"></a>
         <div class="modern-wrappanel">
