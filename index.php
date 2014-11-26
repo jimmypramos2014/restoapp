@@ -58,7 +58,7 @@ if ($isAction == false) {
 ?>
     .tile-area {
         padding-left: 40px;
-        padding-top: 10px !important;
+        padding-top: 10px;
     }
 
     .tile-group {
