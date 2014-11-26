@@ -57,7 +57,7 @@ if ($isAction == false) {
     if ($pag == 'inicio') {
 ?>
     .tile-area {
-        padding-left: 40px !important;
+        padding-left: 40px;
         padding-top: 10px !important;
     }
 
